@@ -68,4 +68,4 @@ The platform serves **6 stakeholder roles:**
 
 ---
 
-*Developed by [Rukiye Sedef Keskin]*
+***Developed by Rukiye Sedef Keskin***
